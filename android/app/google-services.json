@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "991411930094",
+    "project_id": "mecourse-9f591",
+    "storage_bucket": "mecourse-9f591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991411930094:android:5982d6c971f8f1562484ff",
+        "android_client_info": {
+          "package_name": "com.abdelhamidmergh.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991411930094-4nlfp85subnlufb37jukpe4tuqapgi5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdelhamidmergh.dashboard",
+            "certificate_hash": "f0f9504d98d23aadd2e8e5e45cd42f78766db391"
+          }
+        },
+        {
+          "client_id": "991411930094-7pqc7o45mig3f1uhvnfjeossfn12gm5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAom0sdSbkPUTNzVPcC5zE1NOTggjii_1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991411930094-7pqc7o45mig3f1uhvnfjeossfn12gm5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991411930094-u14chmmjq60v3lm06lp3bdhul6udhjdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdelhamidmergh.medcourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991411930094:android:0355449f322a95142484ff",
+        "android_client_info": {
+          "package_name": "com.abdelhamidmergh.medcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991411930094-485oojaf2dciprqs1vr8ok7imlg27phj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdelhamidmergh.medcourse",
+            "certificate_hash": "d81ae63044ea70bd78a793ce8cf5255509f7c8f1"
+          }
+        },
+        {
+          "client_id": "991411930094-7pqc7o45mig3f1uhvnfjeossfn12gm5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAom0sdSbkPUTNzVPcC5zE1NOTggjii_1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991411930094-7pqc7o45mig3f1uhvnfjeossfn12gm5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991411930094-u14chmmjq60v3lm06lp3bdhul6udhjdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdelhamidmergh.medcourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
